@@ -1,0 +1,41 @@
+body{
+    
+
+    background-image:url('as.jpg');
+    background-size: 100% 100%;
+}
+h1{
+color:BLACK;
+}
+ #spc{
+ 
+
+color:black;
+margin-right: 0px;
+margin-left: 0px;
+}
+
+}
+.container-fluid {
+    width: 100%;
+    
+    margin-right: 0px;
+    
+}
+.fag{
+    background-image:url('bg.jpg');
+    background-size: 100% 100%;
+}
+.ras{
+    background-image: url('cu.jpg');
+    background-size: 100% 100%;
+}
+#arm{
+    color:white;
+}
+#fd{
+    color:white;
+}
+ div h3{
+    color:white;
+}
