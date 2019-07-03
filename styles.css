@@ -4,8 +4,19 @@ body{
     background-image:url('as.jpg');
     background-size: 100% 100%;
 }
-h1{
-color:BLACK;
+a.nav-link{
+    font-family: 'Molengo', sans-serif;
+
+}
+h1.text-center {
+color:black;
+font-family: 'Sniglet', cursive;
+font-size:40px;
+}
+p.container.ad{
+    font-family: 'Cantarell', sans-serif;
+    font-size: 18px;
+    font-weight:500;
 }
  #spc{
  
