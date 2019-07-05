@@ -6,6 +6,7 @@ body{
 }
 a.nav-link{
     font-family: 'Molengo', sans-serif;
+    padding-left:10px;
 
 }
 h1.text-center {
