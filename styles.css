@@ -4,7 +4,7 @@ body{
     background-image:url('as.jpg');
     background-size: 100% 100%;
 }
-a.nav-link{
+ .navbar-nav .nav-link{
     font-family: 'Molengo', sans-serif;
     padding-left:10px;
 
